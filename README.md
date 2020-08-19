@@ -1,5 +1,7 @@
-# bioRxiv_speaker_finder
+# BioRxiv Speaker Finder
 This iPython notebook extracts first and last authors who have published bioRxiv preprints relevant to an inputted subject area. You can use it to find researchers outside of your network to invite them as a speaker or cite their work.
+
+**Launch:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilyasterjones/bioRxiv_speaker_finder/master?filepath=bioRxiv_speaker_finder.ipynb)
 
 **Inputs:** keyword (in title or abstract) & whether you are looking for trainees (first authors) or PIs (last authors)
 
