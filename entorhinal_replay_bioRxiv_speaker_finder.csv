@@ -1,3 +1,16 @@
-,Name,Institution,Email,ORCID,Keyword Preprints,Total Preprints,Downloads,Gender,Ethnicity
-0,Martin Pofahl,"Institute of Experimental Epileptology and Cognition Research, University of Bonn Medical Center",martin.pofahl@gmail.com,http://orcid.org/0000-0002-9473-6195,1,1,920,male,W_NL
-1,Talfan Evans,University College London,n.burgess@ucl.ac.uk,http://orcid.org/0000-0002-2079-398X,1,1,489,unknown,B_NL
+,Last Name,First Name,Institution,Email,ORCID,Keyword Manuscripts,Source,Total Manuscripts,Preprint Downloads,Total Works
+0,Beck,Heinz,"Institute for Experimental Epileptology and Cognition Research, University of Bonn",Heinz.beck@ukbonn.de,http://orcid.org/0000-0002-8961-998X,1,bioRxiv,3,1744,
+1,Burgess,Neil,"UCL Inst of Neurology, University College London",neil.burgess@unep-wcmc.org,http://orcid.org/0000-0003-0646-6584,1,bioRxiv,12,14257,184.0
+2,Tonegawa,Susumu,"RIKEN-MIT Center for Neural Circuit Genetics at the Picower Institute for Learning and Memory, Department of Biology and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; RIKEN Brain Science Institute, Wako, Saitama 351-0198, Japan. Electronic address: tonegawa@mit.edu.",tonegawa@mit.edu,https://orcid.org/0000-0003-2839-8228,1,Pubmed,,,
+3,Csicsvari,J,"Institute of Science and Technology Austria (IST Austria), Am Campus 1, A-3400 Klosterneuburg, Austria. jozsef.csicsvari@ist.ac.at joneill@ist.ac.at.",jozsef.csicsvari@ist.ac.a,,1,Pubmed,,,
+4,Sachdev,Robert N S,"Institut für Biologie, Humboldt Universität, Berlin, Germany.",,https://orcid.org/0000-0002-6627-0199,1,Pubmed,,,31.0
+5,Leibold,Christian,"Department Biology II, Ludwig-Maximilians-Universität München, Martinsried, 82152, Germany. leibold@bio.lmu.de.",leibold@bio.lmu.de,http://orcid.org/0000-0002-4859-8000,1,Pubmed,,,80.0
+6,Burgess,Neil,"Institute of Cognitive Neuroscience, University College London, Alexandra House, 17 Queen Square, WC1N 3AZ London, UK.",,https://orcid.org/0000-0003-1986-0839,1,Pubmed,,,
+7,McHugh,Thomas J,"Laboratory for Circuit and Behavioral Physiology, RIKEN Center for Brain Science, Wako-shi, Saitama 351-0198, Japan; email: stevenmiddleton@brain.riken.jp, tjmchugh@brain.riken.jp.",stevenmiddleton@brain.riken.jp,https://orcid.org/0000-0003-3035-0274,1,Pubmed,,,
+8,Mills,Patrick,"Oxford Centre for Computational Neuroscience, Oxford, UK.",,https://orcid.org/0000-0003-0008-8615,1,Pubmed,,,
+9,Barry,Caswell,"Research Department of Cell and Developmental Biology, UCL, Gower Street, London WC1E 6BT, UK. Electronic address: caswell.barry@ucl.ac.uk.",caswell.barry@ucl.ac.uk,https://orcid.org/0000-0001-6718-0649,1,Pubmed,,,9.0
+10,Colgin,Laura Lee,"Center for Learning and Memory, University of Texas at Austin, AustinTX, United States.",,https://orcid.org/0000-0002-4853-8913,1,Pubmed,,,45.0
+11,Lever,Colin,"Psychology Department, Durham University, DH1 3LE, UK. Electronic address: colin.lever@durham.ac.uk.",colin.lever@durham.ac.uk,https://orcid.org/0000-0002-8955-2885,1,Pubmed,,,46.0
+12,de la Prida,Liset M,"Instituto Cajal, CSIC, Avenida Doctor Arce 37, Madrid 28002, Spain.",,https://orcid.org/0000-0002-0160-6472,1,Pubmed,,,60.0
+13,Corballis,Michael C,"School of Psychology, University of Auckland, New Zealand. Electronic address: m.corballis@auckland.ac.nz.",m.corballis@auckland.ac.nz,https://orcid.org/0000-0002-3126-6114,1,Pubmed,,,518.0
+14,Paré,Denis,"Center for Molecular and Behavioral Neuroscience, Rutgers, The State University of New Jersey, Newark, New Jersey pare@andromeda.rutgers.edu.",pare@andromeda.rutgers.edu,,1,Pubmed,,,
