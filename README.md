@@ -28,7 +28,8 @@ This second iPython notebook identifies overrepresented authors, journals, & ins
 
 **Outputs:** prints sorted list most-cited last authors, journals, & institutions (as extracted from ORCID)
 
-**Launch:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilyasterjones/bioRxiv_speaker_finder/master)
+# Launch both notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilyasterjones/bioRxiv_speaker_finder/master)
 
 
 
