@@ -1,6 +1,8 @@
 # BioRxiv Speaker Finder
 This iPython notebook extracts first and last authors who have published bioRxiv preprints or Pubmed manuscripts relevant to an inputted subject area. You can use it to find researchers outside of your network to invite them as a speaker or cite their work.
 
+**March 2023 update**: [Rxvist](https://rxivist.org/), the API required for bioRxiv search portion of this tool, has shut down. The remaining [bioRxiv API](https://api.biorxiv.org/) doesn't have keyword search functions. The Pubmed search portion still works.
+
 **Inputs:** keyword (in title or abstract) & whether you are looking for trainees (first authors) or PIs (last authors)
 
 **Outputs:** Printed data frame & CSV with a list of authors who have published manuscripts containing all keywords, with the following attributes:
